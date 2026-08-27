@@ -4,8 +4,10 @@ Userscript para automatizar o preenchimento e a inclusão de apontamentos em lot
 
 A ferramenta permite informar um intervalo de datas e configurar os horários dos turnos da manhã e da tarde, preenchendo automaticamente os apontamentos para cada dia útil.
 
-![Tela da Issue Aberta](./Imagem1.png)
-![Checkpoint](./Imagem2.png)
+<p align="center">
+  <img src="./Imagem1.png" alt="Tela da Issue Aberta" width="45%">
+  <img src="./Imagem2.png" alt="Checkpoint" width="45%">
+</p>
 
 
 ## ✨ Funcionalidades
