@@ -5,10 +5,6 @@ Userscript para automatizar o preenchimento e a inclusão de apontamentos em lot
 A ferramenta permite informar um intervalo de datas e configurar os horários dos turnos da manhã e da tarde, preenchendo automaticamente os apontamentos para cada dia útil.
 
 <p align="center">
-  <img src="./Imagem1.png" alt="Tela da Issue Aberta">
-</p>
-
-<p align="center">
   <img src="./Imagem2.png" alt="Checkpoint">
 </p>
 
@@ -155,6 +151,10 @@ O botão **Validar** executa o preenchimento dos campos sem adicionar os apontam
 O botão **Adicionar** solicita confirmação antes de realizar a operação.
 
 Após a confirmação, os apontamentos são inseridos no Clockify.
+
+<p align="center">
+  <img src="./Imagem1.png" alt="Tela da Issue Aberta">
+</p>
 
 **Confira as datas, horários e a tag antes de confirmar**, pois essa operação adiciona apontamentos reais.
 
