@@ -152,11 +152,11 @@ O botão **Adicionar** solicita confirmação antes de realizar a operação.
 
 Após a confirmação, os apontamentos são inseridos no Clockify.
 
+**Confira as datas, horários e a tag antes de confirmar**, pois essa operação adiciona apontamentos reais.
+
 <p align="center">
   <img src="./Imagem1.png" alt="Tela da Issue Aberta">
 </p>
-
-**Confira as datas, horários e a tag antes de confirmar**, pois essa operação adiciona apontamentos reais.
 
 ## ⏱️ Delay entre envios
 
